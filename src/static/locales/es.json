@@ -1,0 +1,19 @@
+{
+    "nav": {
+      "home": "Hogar",
+      "features": "Características",
+      "about": "Sobre"
+    },
+    "home": {
+      "title": "¡Todos bienvenidos!",
+      "description": "Cambie entre diferentes pestañas e idiomas para ver la acción."
+    },
+    "features": {
+      "title": "Principales características",
+      "description": "El navegador del usuario detecta el idioma predeterminado en el lanzamiento. Si no es compatible, se utiliza el inglés. Si el usuario selecciona el idioma manualmente en el menú, se utiliza ese idioma en particular."
+    },
+    "about": {
+      "title": "Pila de tecnologías",
+      "description": "Esta demostración fue construida por Madza. Usé 'Svelte', 'svelte-routing' y 'svelte-i18n' como pila de tecnologías."
+    }
+}

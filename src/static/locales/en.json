@@ -1,0 +1,19 @@
+{
+    "nav": {
+      "home": "Home",
+      "features": "Features",
+      "about": "About"
+    },
+    "home": {
+      "title": "Welcome, Everyone!",
+      "description": "Switch between different tabs and languages to see the action."
+    },
+    "features": {
+      "title": "Main Features",
+      "description": "The default language on the launch is detected by the user's browser. If it is not supported, English is used. If the user selects the language manually from the menu, that particular language is used."
+    },
+    "about": {
+      "title": "Stack of Technologies",
+      "description": "This demo was built by Madza. I used 'Svelte', 'svelte-routing' and 'svelte-i18n' as the stack of technologies."
+    }
+}
